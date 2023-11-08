@@ -1,5 +1,7 @@
 body {
   background-color:black;
+  color: red;
+  font-family: serif;
 }
 h1 {
   text-align:center;
