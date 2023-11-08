@@ -1,1 +1,9 @@
+body {
+  background-color:black;
+}
 
+.btn {
+  padding: 2em;
+  border-style:solid;
+  text-align:center;
+}
